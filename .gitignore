@@ -1,0 +1,9 @@
+# Ignore virtual environment
+env/
+
+# Ignore model files
+*.keras
+
+# Ignore system files
+*.log
+*.tmp
